@@ -1,0 +1,1 @@
+/*Zde si testuji funkcionality pro vytvoření AddOnu do webového prohlížeče*/
